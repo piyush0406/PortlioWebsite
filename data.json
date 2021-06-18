@@ -1,0 +1,17 @@
+[
+  {
+    "id":0,
+    "name":"HTML",
+    "icon":"<i class="fa fa-html5" aria-hidden="true"></i>"
+  },
+  {
+    "id":1,
+    "name":"React",
+    "icon":"<i class="fab fa-codepen"></i>"
+  },
+  {
+    "id":2,
+    "name":"Bootstrap",
+    "icon":"<i class="fas fa-bold"></i>"
+  }
+]
